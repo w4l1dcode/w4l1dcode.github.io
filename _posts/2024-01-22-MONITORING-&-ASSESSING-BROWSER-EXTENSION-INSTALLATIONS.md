@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monitoring & Asessing Browser Extension Installations
+title: Monitoring & Assessing Browser Extension Installations
 date: 2024-01-22
 categories: [Detection Engineering]
 tags: [Detection-Engineering, Browser-Extensions, KQL, CrowdStrike, Azure-Logic-Apps]
