@@ -221,22 +221,19 @@ You can now use it to target the victim. Happy phishing!
 ### Detection & Defense
 
 
-1. Unfamiliar Domains. Block lookalike domains via proxy/DNS filters
+1. Block lookalike domains via proxy/DNS filters
 
 
 2. Monitor domain registrations for your brand (DNSTwist, VirusTotal)
 
 
 3. Impossible Travel or Device Change
-Logins with correct credentials/MFA but from new IP/geolocation
 
 
-4. Short-Lived Sessions
-Sessions originating from known cloud providers (e.g., AWS, GCP) right after legitimate user login 
+4. Sessions originating from known cloud providers (e.g., AWS, GCP) right after legitimate user login. (Short-Lived Sessions)
 
 
-5. TLS Certificate Anomalies
-Certificates for domains mimicking login providers
+5. TLS Certificates for domains mimicking login providers
 
 
 6. Encourage users to adopt FIDO2 security keys or platform passkeys, which resist phishing by cryptographically binding authentication to the legitimate domain
